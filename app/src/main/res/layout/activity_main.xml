@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foregroundTint="#650404"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="681dp"
+        android:layout_above="@+id/bottom_navigator"
+        android:layout_marginBottom="200dp"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TableLayout
+            android:layout_width="400dp"
+            android:layout_height="680dp"
+            android:gravity="center">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+
+                    android:id="@+id/yoquierohome"
+                    android:layout_width="75dp"
+                    android:layout_height="28.5dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="1dp"
+                    android:fontFamily="sans-serif-black"
+                    android:gravity="center"
+                    android:text="@string/yoquierohome_string"
+                    android:textColor="@color/_bg__home_color"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/yomesientohome"
+                    android:layout_width="75dp"
+                    android:layout_height="28.5dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:fontFamily="sans-serif-black"
+                    android:gravity="center"
+                    android:text="@string/yomesientohome_string"
+                    android:textColor="@color/_bg__home_color"
+                    android:textSize="15sp" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                >
+
+                <Button
+                    android:id="@+id/_quierohome"
+                    android:layout_width="210dp"
+                    android:layout_height="82dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/quieroobjetoview"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="callYoQuiero"
+                    app:backgroundTint="@null" />
+
+                <Button
+                    android:id="@+id/_sientohome"
+                    android:layout_width="210dp"
+                    android:layout_height="82dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/sientoview"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="callMeSiento"
+                    app:backgroundTint="@null" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/yomesientoconhome"
+                    android:layout_width="75dp"
+                    android:layout_height="28.5dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:fontFamily="sans-serif-black"
+                    android:gravity="center"
+                    android:text="@string/yomesientoconhome_string"
+                    android:textColor="@color/_bg__home_color"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/yovoyahome"
+                    android:layout_width="75dp"
+                    android:layout_height="28.5dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:fontFamily="sans-serif-black"
+                    android:gravity="center"
+                    android:text="@string/yovoyahome_string"
+                    android:textColor="@color/_bg__home_color"
+                    android:textSize="15sp" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/sientoconhome"
+                    android:layout_width="210dp"
+                    android:layout_height="82dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/sientoconview"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="callMesientocon"
+                    app:backgroundTint="@null" />
+
+                <Button
+                    android:id="@+id/yovoyhome"
+                    android:layout_width="210dp"
+                    android:layout_height="82dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/yovoyview"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="callYovoy"
+                    app:backgroundTint="@null" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/yonecesitohome"
+                    android:layout_width="75dp"
+                    android:layout_height="28.5dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:fontFamily="sans-serif-black"
+                    android:gravity="center"
+                    android:text="@string/yonecesitohome_string"
+                    android:textColor="@color/_bg__home_color"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/misnecesidadeshome"
+                    android:layout_width="75dp"
+                    android:layout_height="28.5dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:fontFamily="sans-serif-black"
+                    android:gravity="center"
+                    android:text="@string/misnecesidadeshome_string"
+                    android:textColor="@color/_bg__home_color"
+                    android:textSize="15sp" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/necesitohome"
+                    android:layout_width="210dp"
+                    android:layout_height="82dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/necesitoview"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="callYonecesito"
+                    app:backgroundTint="@null" />
+
+                <Button
+                    android:id="@+id/necesihome"
+                    android:layout_width="210dp"
+                    android:layout_height="82dp"
+                    android:layout_gravity="center_horizontal|center"
+                    android:layout_marginLeft="-3dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@drawable/yoneedview"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:onClick="callMisNecesidades"
+                    app:backgroundTint="@null" />
+            </TableRow>
+        </TableLayout>
+
+    </LinearLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:itemBackground="@color/barrahome2_color"
+        app:itemIconTint="@drawable/selector"
+        app:itemTextColor="@drawable/selector"
+        app:menu="@menu/menu" />
+
+</RelativeLayout>
+
+
+
+
+
+

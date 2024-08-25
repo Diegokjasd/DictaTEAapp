@@ -1,24 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<!-- configuracion colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="edittext">#d9d9d9</color>
+    //a partir de aqui es codigo nuevo
 
-	<color name="colorPrimary">#008577</color>
-	<color name="colorPrimaryDark">#00574B</color>
-	<color name="colorAccent">#D81B60</color>
-	<color name="purple_200">#FFBB86FC</color>
-	<color name="purple_500">#FF6200EE</color>
-	<color name="purple_700">#FF3700B3</color>
-	<color name="teal_200">#FF03DAC5</color>
-	<color name="teal_700">#FF018786</color>
-	<color name="black">#FF000000</color>
-	<color name="white">#FFFFFFFF</color>
+    <!-- home colors -->
 
-	<color name="_bg__configuracion_ek2_color">#FBFBFB</color>
-	<color name="nombre_color">#000000</color>
-	<color name="namememe_color">#D9D9D9</color>
-	<color name="ingresa_un_nombre_color">#B6B6B6</color>
-	<color name="rectangleyy39_color">#FFFFFF</color>
-	<color name="centro_de_ayuda_color">#4D61A7</color>
-	<color name="ellipswandy1ddd_color">#697CBE</color>
-	<color name="cxzcxc23_color">#ffffff</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="_bg__home_color">#000000</color>
+    <color name="fondoblancohome_color">#FCFCFC</color>
+    <color name="barrahome2_color">#697CBE</color>
+    <color name="iniciohome2_color">#FFFFFF</color>
+    <color name="_bg__ajustes_color">#000000</color>
+    <color name="fondoblancoconfig_color">#FCFCFC</color>
+    <color name="barra_color">#697CBE</color>
+    <color name="configuracion_color">#FFFFFF</color>
+
+    <color name="_bg__ayuda_color">#000000</color>
+    <color name="fondoblancoayuda_color">#FCFCFC</color>
+    <color name="barritaviolet_color">#697CBE</color>
+    <color name="ayuda1_color">#FFFFFF</color>
+
+    <!--  centroayudaframe8 colors  -->
+    <color name="_bg__centroayudaframe8_color">#000000</color>
+    <color name="fondoblancocentro_color">#FCFCFC</color>
+
+    <!--  necesidadesframe colors  -->
+    <color name="_bg__necesidadesframe_color">#000000</color>
+    <color name="fondoblanconecesito_color">#FCFCFC</color>
+
+    <!--  objeto colors  -->
+    <color name="_bg__objeto_color">#000000</color>
+    <color name="fondoobjetoframe_color">#FCFCFC</color>
+
+    <!--  yomesientocon colors  -->
+    <color name="_bg__yomesientocon_color">#000000</color>
+    <color name="fondoblancosientocon_color">#FCFCFC</color>
+
+    <!--  yonecesito colors  -->
+    <color name="_bg__yonecesito_color">#000000</color>
+    <color name="fondoblanconeed_color">#FCFCFC</color>
+
+    <!--  yoquiero colors  -->
+    <color name="_bg__yoquiero_color">#000000</color>
+    <color name="fondoblancoquiero_color">#FCFCFC</color>
+
+    <!--  yosiento colors  -->
+    <color name="_bg__yosiento_color">#000000</color>
+    <color name="fondoblancosiento_color">#FCFCFC</color>
+
+    <!--  yovoy colors  -->
+    <color name="_bg__yovoy_color">#000000</color>
+    <color name="fondoblancovoy_color">#FCFCFC</color>
+
+
+
+
+
 </resources>

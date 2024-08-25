@@ -1,96 +1,135 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<!-- configuracion strings -->
+    <string name="app_name">DictaTEA</string>
+    <string name="IMAGEBUTTON">Imagen Button</string>
+    <string name="floating">floating</string>
+    <string name="fbatras">fbatras</string>
+    <string name="boton">boton</string>
 
-	<string name="app_name">Page 1</string>
-	<string name="ek_img_content">ExportKit Image</string>
-	<string name="nombre_string">Nombre</string>
-	<string name="vozconfiguracion_string">voz</string>
-	<string name="hombre_string">hombre</string>
-	<string name="mujer_string">mujer</string>
-	<string name="cambiar_perfil_string">cambiar perfil</string>
-	<string name="ingresa_un_nombre_string">ingresa un nombre</string>
-	<string name="aaaaaa_string">Aqui podemos ayudarte a como usar una tabla de comunicacion.para aprender como sar una tabla de comunicacion haga click en el siguiente boton</string>
-	<string name="bbbbasa_string">  En caso de estar experimentando problemas con la aplicacion, pongase en contacto con nosotros enviandonos un correo electronico indicando el motivo de su reclamo.</string>
-	<string name="centro_de_ayuda_string">CENTRO DE AYUDA</string>
-	<string name="ayuda_ek3_string">AYUDA</string>
-	<string name="dictatea_string">DictaTEA</string>
-	<string name="chaca_string">Como funciona una tabla de comunicacion?</string>
-	<string name="chaaaa_string">  Las tablas de comunicacion tienen como funcion principal la comunicacion de un individuo con otro. El tablero permite facilitar la comunicacion de una persona con dificultades de habla, dificultades de expresarse, entre otros.</string>
-	<string name="mamaaa_string">  Para poder comunicarse, unicamente debe presionar los dibujos que representan acciones, sentimientos, objetos, lugares, etc. La aplicacin dira lo que presiono con el tipo de voz elegido masculino o femeninoA continuacion veras una tabla de comunicacion fisica:</string>
-	<string name="eoodfdff_string"> Al igual que una tabla de comunicacion fisica, con DictaTEA usted debera sealar y presionar lo que desea comunicar. DictaTEA comunicara lo que desee transmitir con voz.</string>
-	<string name="misnecesidades_string">Mis necesidades ____________</string>
-	<string name="ir_al_banio_string">ir al bao</string>
-	<string name="peinarme_string">peinarme</string>
-	<string name="usar_shampoo_string">usar shampoo</string>
-	<string name="baniarme_string">baarme</string>
-	<string name="usar_jabon_string">usar jabn</string>
-	<string name="cepillarme_los_dientes_string">cepillarme los dientes</string>
-	<string name="ayuda_sos_string">ayuda (SOS)</string>
-	<string name="lavarme_la_cara_string">lavarme la cara</string>
-	<string name="yo_necesito______________string">Yo necesito ____________</string>
-	<string name="leer_string">leer</string>
-	<string name="hacer_tarea_string">hacer tarea</string>
-	<string name="cortarfotot_string">cortar imgenes</string>
-	<string name="escribir_string">escribir</string>
-	<string name="ayuda_con_mi_tarea_string">ayuda con mi tarea</string>
-	<string name="estudiar_para_mi_examen_string">estudiar para mi examen</string>
-	<string name="matematica_string">practicar matemtica</string>
-	<string name="memorizar_string">memorizar</string>
-	<string name="yo_voy______________string">Yo voy ____________</string>
-	<string name="school_string">a la escuela</string>
-	<string name="park_string">al parque</string>
-	<string name="cineeee_string">al cine</string>
-	<string name="abuelos_string">a la casa de mis abuelos</string>
-	<string name="amixtikis_string">a la casa de mis amigos</string>
-	<string name="alaxboxpapa_string">a los juegos</string>
-	<string name="myhouse_string">a mi casa</string>
-	<string name="alaplei_string">a jugar</string>
-	<string name="vcxsdfsdf_string">Yo me siento con ____________</string>
-	<string name="gripe_string">Gripe</string>
-	<string name="dolor_de_garganta_string">Dolor de garganta</string>
-	<string name="fdfdsfsd_string">Dolor en el corazn</string>
-	<string name="dfsdfd_string">Dolor de estmago</string>
-	<string name="dolor_de_muela_string">Dolor de muela</string>
-	<string name="fgdgfgfdg_string">Dolor de odo</string>
-	<string name="dolor_de_espalda_string">Dolor de espalda</string>
-	<string name="dolor_de_cabeza_string">Dolor de cabeza</string>
-	<string name="yo_me_siento______________string">Yo me siento ____________</string>
-	<string name="tabla_de_comunicacion_string">Tabla de comunicacin</string>
-	<string name="feliz_string">Feliz</string>
-	<string name="triste_string">Triste</string>
-	<string name="enojado_string">Enojado</string>
-	<string name="sorprendido_string">Sorprendido</string>
-	<string name="cansado_string">Cansado</string>
-	<string name="tranquilo_string">Tranquilo</string>
-	<string name="hambriento_string">Hambriento</string>
-	<string name="avergonzado_string">Avergonzado</string>
-	<string name="enfermo_string">Enfermo</string>
-	<string name="aburrido_string">Aburrido</string>
-	<string name="asustado_string">Asustado</string>
-	<string name="yo_quiero______________string">Yo quiero ____________</string>
-	<string name="comer_string">comer</string>
-	<string name="beber_string">beber</string>
-	<string name="baniarme_ek1_string">baarme</string>
-	<string name="jugar_string">jugar</string>
-	<string name="dormir_string">dormir</string>
-	<string name="ir_al_banio_ek1_string">ir al bao</string>
-	<string name="caminar_string">caminar</string>
-	<string name="objetos_string">Objetos</string>
-	<string name="hablar_string">hablar</string>
-	<string name="yo_quiero_string">Yo quiero</string>
-	<string name="yo_me_siento_string">Yo me siento</string>
-	<string name="yo_me_siento_con_string">Yo me siento con</string>
-	<string name="yo_voy_a_string">Yo voy a</string>
-	<string name="yo_necesito_string">Yo necesito</string>
-	<string name="mis_necesidades_string">Mis necesidades</string>
-	<string name="yo_quiero______________ek1_string">Yo quiero ____________</string>
-	<string name="ellapiz_string">el lpiz</string>
-	<string name="ccxvffcv_string">la pelota</string>
-	<string name="esal_cvbbcontrol_string">el control</string>
-	<string name="al_livbbbro_string">el libro</string>
-	<string name="pvelbbuche_string">el peluche</string>
-	<string name="jugvuecbcte_string">el juguete</string>
-	<string name="relobbjbbbv_string">reloj</string>
-	<string name="boccctellva_string">la botella</string>
+
+    <!-- A partir de aqui es codigo nuevo -->
+    <!-- home strings -->
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="iniciohome2_string">Inicio</string>
+    <string name="ayudahome2_string">Ayuda</string>
+    <string name="confighome2_string">Configuracin</string>
+    <string name="yoquierohome_string">Yo quiero</string>
+    <string name="yomesientohome_string">Yo me siento</string>
+    <string name="yomesientoconhome_string">Yo me siento con</string>
+    <string name="yovoyahome_string">Yo voy a</string>
+    <string name="yonecesitohome_string">Yo necesito</string>
+    <string name="misnecesidadeshome_string">Mis necesidades</string>
+    <!--  ajustes strings  -->
+    <string name="inicio_string">Inicio</string>
+    <string name="ayuda_string">Ayuda</string>
+    <string name="configuracion_string">Configuracion</string>
+    <string name="cambiarperfil_string">Cambiar Perfil</string>
+    <string name="hombre_string">Hombre</string>
+    <string name="mujer_string">Mujer</string>
+    <string name="nombreconfig_string">Nombre</string>
+    <string name="vozaudio_string">Voz</string>
+    <!--  ayuda strings  -->
+    <string name="inicioayuda1_string">Inicio</string>
+    <string name="ayuda1_string">Ayuda</string>
+    <string name="configu_string">Configuracion</string>
+    <string name="ayudita_string">AYUDA</string>
+    <string name="primertexto_string">Aqu podemos ayudarte a como usar una tabla de comunicacin.para aprender como usar una tabla de comunicacin haga click en el siguiente botn</string>
+    <string name="segundotexto_string"> En caso de estar experimentando problemas con la aplicacin, pongase en contacto con nosotros envindonos un correo electrnico indicando el motivo de su reclamo.</string>
+
+    <!--  centroayudaframe8 strings  -->
+    <string name="titulo_string">Cmo funciona una tabla de comunicacin?</string>
+    <string name="primertextocentro_string"> Las tablas de comunicación tienen como funcion principal la comunicación de un individuo con otro. El tablero permite facilitar la comunicación de una persona con dificultades de habla, dificultades de expresarse, entre otros.</string>
+    <string name="segundotextocentro_string"> Para poder comunicarse, unicamente debe presionar los dibujos que representan acciones, sentimientos, objetos, lugares, etc. La aplicacin dira lo que presion con el tipo de voz elegido (masculino o femenino)A continuación verás una tabla de comunicación fsica.</string>
+    <string name="tercertexto_string"> Al igual que una tabla de comunicacion fisica, con DictaTEA usted deber señalar y presionar lo que desea comunicar. DictaTEA comunicar lo que usted desee transmitir con la voz elegida.</string>
+
+    <!--  necesidadesframe strings  -->
+    <string name="necesitotx_string">Necesito</string>
+    <string name="baniiotx_string">ir al bao</string>
+    <string name="baniiarmetx_string">baarme</string>
+    <string name="jabontx_string">usar jabn</string>
+    <string name="shampootx_string">usar shampoo</string>
+    <string name="peinarmetx_string">peinarme</string>
+    <string name="dientestx_string">cepillarme los dientes</string>
+    <string name="ayudasostx_string">ayuda</string>
+    <string name="caratx_string">lavarme la cara </string>
+
+    <!--  objeto strings  -->
+    <string name="quieroobjetoframe_string">Yo quiero </string>
+    <string name="lapizframetx_string">el lpiz</string>
+    <string name="libroframetx_string">el libro</string>
+    <string name="pelucheframetx_string">el peluche</string>
+    <string name="controlframetx_string">el control</string>
+    <string name="pelotaframetx_string">la pelota</string>
+    <string name="jugueteframetx_string">el juguete</string>
+    <string name="relojframetx_string">el reloj</string>
+    <string name="botellaframetx_string">la botella</string>
+
+    <!--  yomesientocon strings  -->
+    <string name="yosientocon_string">Yo me siento con</string>
+    <string name="gripetx_string">gripe</string>
+    <string name="corazontx_string">dolor en el corazn</string>
+    <string name="estomagotx_string">dolor de estmago</string>
+    <string name="cabezatx_string">dolor de cabeza</string>
+    <string name="gargantatx_string">dolor de garganta</string>
+    <string name="espaldatx_string">dolor de espalda</string>
+    <string name="oidotx_string">dolor de odo</string>
+    <string name="muelatx_string">dolor de muela</string>
+
+    <!--  yonecesito strings  -->
+    <string name="yonecesitotx_string">Yo necesito</string>
+    <string name="leertx_string">leer</string>
+    <string name="escribirtx_string">escribir</string>
+    <string name="ayudatareatx_string">ayuda con mi tarea</string>
+    <string name="cortartx_string">cortar imgenes</string>
+    <string name="tareatx_string">hacer tarea</string>
+    <string name="examentx_string">estudiar para mi examen</string>
+    <string name="memorizartx_string">memorizar</string>
+    <string name="matematicatx_string">practicar matemtica</string>
+
+    <!--  yoquiero strings  -->
+    <string name="yoquieroquiero_string">Yo quiero</string>
+    <string name="comertx_string">comer</string>
+    <string name="jugartx_string">jugar</string>
+    <string name="dormirtc_string">dormir</string>
+    <string name="baniarmetx_string">bañarme</string>
+    <string name="bebertx_string">beber</string>
+    <string name="baniotx_string">ir al baño</string>
+    <string name="caminartx_string">caminar</string>
+    <string name="hablartx_string">hablar</string>
+    <string name="objetotx_string">objeto</string>
+
+    <!--  yosiento strings  -->
+    <string name="yosiento_string">Yo me siento</string>
+    <string name="feliztx_string">feliz</string>
+    <string name="asustadotx_string">asustado</string>
+    <string name="sorprendidotx_string">sorprendido</string>
+    <string name="avergonzadotx_string">avergonzado</string>
+    <string name="cansadotx_string">cansado</string>
+    <string name="tranquilotx_string">tranquilo</string>
+    <string name="enfermotx_string">enfermo</string>
+    <string name="tristetx_string">triste</string>
+    <string name="aburridotx_string">aburrido</string>
+    <string name="enojadotx_string">enojado</string>
+    <string name="hambrientotx_string">hambriento</string>
+
+    <!--  yovoy strings  -->
+    <string name="yovoytx_string">Yo voy</string>
+    <string name="escuelatx_string">a la escuela</string>
+    <string name="abuelostx_string">a la casa de mis abuelos</string>
+    <string name="amigostx_string">a la casa de mis amigos</string>
+    <string name="juegostx_string">a los juegos</string>
+    <string name="parquetx_string">al parque</string>
+    <string name="cinetx_string">al cine</string>
+    <string name="ajugartx_string">a jugar</string>
+    <string name="casatx_string">a mi casa</string>
+    <string name="title_activity_yo_voy">Yo_voy</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
 </resources>

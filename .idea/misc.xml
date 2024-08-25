@@ -3,14 +3,32 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/drawable-nodpi/rectfgfdgangle_17_shape.xml" value="0.1" />
-        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/ayuda.xml" value="0.25" />
-        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/centrodeayuda.xml" value="0.25" />
-        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/configuracion.xml" value="0.152" />
-        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/home.xml" value="0.2" />
-        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/splashscreen.xml" value="0.136" />
-        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/yoquiero.xml" value="0.25" />
-        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/yovoy.xml" value="0.25" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2555" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/drawable/edit_text.xml" value="0.156" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/drawable/ic_configuracion.xml" value="0.151" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/drawable/ic_help.xml" value="0.2555" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/drawable/ic_home.xml" value="0.151" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/drawable/ic_splashscreen.xml" value="0.183" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/drawable/selector.xml" value="0.151" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_ayuda.xml" value="0.264" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_centro_ayuda.xml" value="0.20521590423257802" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_configuracion.xml" value="0.264" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_mesientocon.xml" value="0.20521590423257802" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_mis_necesidades.xml" value="0.264" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_objeto.xml" value="0.264" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_splash_screen.xml" value="0.21190375685943436" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_yo_mesiento.xml" value="0.264" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_yo_necesito.xml" value="0.4" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_yo_quiero.xml" value="0.20521590423257802" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/activity_yo_voy.xml" value="0.264" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/content_yo_voy.xml" value="0.20521590423257802" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/fragment_first.xml" value="0.20521590423257802" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/layout/fragment_second.xml" value="0.20521590423257802" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/menu/menu.xml" value="0.24895833333333334" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2555" />
+        <entry key="..\:/Android Studio/DictaTEA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2555" />
       </map>
     </option>
   </component>
@@ -19,5 +37,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.176" />
+      </ProjectState>
+    </option>
   </component>
 </project>
