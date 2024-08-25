@@ -4,7 +4,6 @@
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-
 ![Banner](images/banner.jpg)
 
 ## EN
@@ -73,6 +72,7 @@ We welcome contributions to improve DictaTEA. To contribute:
 ### Credits
 
 - **Design Credits:** Special thanks to [@Bazgart22](https://x.com/Bazgart22) for the design of the cards used in the communication board.
+- **Figma Design:** [Figma Project Link](https://www.figma.com/file/jIS9jbxcTpapoERCUUqXYm/Untitled?node-id=0%3A1)
 
 ![Bunny Mascot](images/bunny.png)
 
@@ -80,6 +80,7 @@ We welcome contributions to improve DictaTEA. To contribute:
 
 ![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -149,6 +150,7 @@ Estamos abiertos a contribuciones para mejorar DictaTEA. Para contribuir:
 ### Créditos
 
 - **Créditos de Diseño:** Agradecimientos a [@Bazgart22](https://x.com/Bazgart22) por el diseño de las tarjetas usadas en el tablero de comunicación.
+- **Diseño en Figma:** [Enlace al Proyecto Figma](https://www.figma.com/file/jIS9jbxcTpapoERCUUqXYm/Untitled?node-id=0%3A1)
 
 ![Bunny Mascot](images/bunny.png)
 
@@ -157,4 +159,3 @@ Estamos abiertos a contribuciones para mejorar DictaTEA. Para contribuir:
 ![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
