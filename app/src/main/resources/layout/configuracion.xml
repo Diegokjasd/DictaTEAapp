@@ -1,0 +1,159 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		configuracion
+	 *	@date 		Monday 11th of July 2022 11:09:51 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/configuracion" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_configuracion_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__configuracion_ek2"
+					android:background="@drawable/_bg__configuracion_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="800dp" />
+
+				<ImageView android:id="@+id/toolbar"
+					android:src="@drawable/toolbar"
+					android:contentDescription="toolbar"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="39dp" />
+
+				<TextView android:id="@+id/nombre"
+					android:fontFamily="Jua"
+					android:textSize="32sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="26dp"
+					android:layout_marginTop="332dp"
+					android:layout_width="196dp"
+					android:layout_height="49dp"
+					android:text="@string/nombre_string"
+					 />
+
+				<TextView android:id="@+id/vozconfiguracion"
+					android:fontFamily="Jua"
+					android:textSize="32sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="26dp"
+					android:layout_marginTop="508dp"
+					android:layout_width="196dp"
+					android:layout_height="49dp"
+					android:text="@string/vozconfiguracion_string"
+					 />
+
+				<TextView android:id="@+id/hombre"
+					android:fontFamily="Jua"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="-20dp"
+					android:layout_marginTop="570dp"
+					android:layout_width="174dp"
+					android:layout_height="41dp"
+					android:text="@string/hombre_string"
+					 />
+
+				<TextView android:id="@+id/mujer"
+					android:fontFamily="Jua"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="154dp"
+					android:layout_marginTop="570dp"
+					android:layout_width="174dp"
+					android:layout_height="41dp"
+					android:text="@string/mujer_string"
+					 />
+
+				<TextView android:id="@+id/cambiar_perfil"
+					android:fontFamily="Jua"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="24sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="69dp"
+					android:layout_marginTop="244dp"
+					android:layout_width="231dp"
+					android:layout_height="53dp"
+					android:text="@string/cambiar_perfil_string"
+					 />
+
+				<ImageView android:id="@+id/fototo"
+					android:src="@drawable/fototo"
+					android:contentDescription="fototo"
+					 android:layout_marginStart="102dp"
+					android:layout_marginTop="78dp"
+					android:layout_width="156dp"
+					android:layout_height="156dp" />
+
+
+				<RelativeLayout android:id="@+id/group_15"
+					android:layout_marginTop="386dp"
+					android:layout_marginStart="17dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/namememe"
+						android:background="@drawable/namememe_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="325dp"
+						android:layout_height="58dp" />
+
+					<TextView android:id="@+id/ingresa_un_nombre"
+						android:fontFamily="Jua"
+						android:textSize="24sp"
+						android:textColor="@color/ingresa_un_nombre_color"
+						android:layout_marginLeft="24dp"
+						android:layout_marginTop="14dp"
+						android:layout_width="304dp"
+						android:layout_height="48dp"
+						android:text="@string/ingresa_un_nombre_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

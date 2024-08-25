@@ -1,0 +1,176 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		configuracion
+	 *	@date 		Monday 11th of July 2022 11:09:51 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/home" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_home_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__home_ek2"
+					android:background="@drawable/_bg__home_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="800dp" />
+
+				<TextView android:id="@+id/yo_quiero"
+					android:fontFamily="Inter"
+					android:textSize="15sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="146dp"
+					android:layout_marginTop="51dp"
+					android:layout_width="87.5dp"
+					android:layout_height="28.5dp"
+					android:text="@string/yo_quiero_string"
+					 />
+
+				<TextView android:id="@+id/yo_me_siento"
+					android:fontFamily="Inter"
+					android:textSize="15sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="135dp"
+					android:layout_marginTop="165dp"
+					android:layout_width="112.5dp"
+					android:layout_height="28.5dp"
+					android:text="@string/yo_me_siento_string"
+					 />
+
+				<TextView android:id="@+id/yo_me_siento_con"
+					android:fontFamily="Inter"
+					android:textSize="15sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="119dp"
+					android:layout_marginTop="279dp"
+					android:layout_width="142.5dp"
+					android:layout_height="28.5dp"
+					android:text="@string/yo_me_siento_con_string"
+					 />
+
+				<TextView android:id="@+id/yo_voy_a"
+					android:fontFamily="Inter"
+					android:textSize="15sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="149dp"
+					android:layout_marginTop="393dp"
+					android:layout_width="80.5dp"
+					android:layout_height="28.5dp"
+					android:text="@string/yo_voy_a_string"
+					 />
+
+				<ImageView android:id="@+id/vectorgggg"
+					android:src="@drawable/vectorgggg"
+					android:contentDescription="vectorgggg"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="39dp" />
+
+				<TextView android:id="@+id/yo_necesito"
+					android:fontFamily="Inter"
+					android:textSize="15sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="142dp"
+					android:layout_marginTop="507dp"
+					android:layout_width="103.5dp"
+					android:layout_height="28.5dp"
+					android:text="@string/yo_necesito_string"
+					 />
+
+				<TextView android:id="@+id/mis_necesidades"
+					android:fontFamily="Inter"
+					android:textSize="15sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="119dp"
+					android:layout_marginTop="621dp"
+					android:layout_width="139.5dp"
+					android:layout_height="28.5dp"
+					android:text="@string/mis_necesidades_string"
+					 />
+
+				<ImageView android:id="@+id/_quiero"
+					android:src="@drawable/_quiero"
+					android:contentDescription="_quiero"
+					 android:layout_marginStart="52dp"
+					android:layout_marginTop="76dp"
+					android:layout_width="261dp"
+					android:layout_height="82dp" />
+
+				<ImageView android:id="@+id/_siento"
+					android:src="@drawable/_siento"
+					android:contentDescription="_siento"
+					 android:layout_marginStart="50dp"
+					android:layout_marginTop="190dp"
+					android:layout_width="261dp"
+					android:layout_height="82dp" />
+
+				<ImageView android:id="@+id/_sientocon"
+					android:src="@drawable/_sientocon"
+					android:contentDescription="_sientocon"
+					 android:layout_marginStart="52dp"
+					android:layout_marginTop="304dp"
+					android:layout_width="261dp"
+					android:layout_height="82dp" />
+
+				<ImageView android:id="@+id/_yovoy_ek3"
+					android:src="@drawable/_yovoy_ek3"
+					android:contentDescription="_yovoy_ek3"
+					 android:layout_marginStart="52dp"
+					android:layout_marginTop="412dp"
+					android:layout_width="261dp"
+					android:layout_height="82dp" />
+
+				<ImageView android:id="@+id/_necesito"
+					android:src="@drawable/_necesito"
+					android:contentDescription="_necesito"
+					 android:layout_marginStart="50dp"
+					android:layout_marginTop="529dp"
+					android:layout_width="261dp"
+					android:layout_height="82dp" />
+
+				<ImageView android:id="@+id/_necesidades_ek3"
+					android:src="@drawable/_necesidades_ek3"
+					android:contentDescription="_necesidades_ek3"
+					 android:layout_marginStart="50dp"
+					android:layout_marginTop="644dp"
+					android:layout_width="261dp"
+					android:layout_height="82dp" />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

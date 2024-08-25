@@ -1,0 +1,138 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		configuracion
+	 *	@date 		Monday 11th of July 2022 11:09:51 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/ayuda" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_ayuda_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__ayuda_ek2"
+					android:background="@drawable/_bg__ayuda_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="800dp" />
+
+				<ImageView android:id="@+id/vector344"
+					android:src="@drawable/vector344"
+					android:contentDescription="vector344"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="39dp" />
+
+				<TextView android:id="@+id/aaaaaa"
+					android:fontFamily="Inter"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="20sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="17dp"
+					android:layout_marginTop="120dp"
+					android:layout_width="335dp"
+					android:layout_height="146dp"
+					android:text="@string/aaaaaa_string"
+					 />
+
+				<TextView android:id="@+id/bbbbasa"
+					android:fontFamily="Inter"
+					android:textSize="20sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="20dp"
+					android:layout_marginTop="420dp"
+					android:layout_width="345dp"
+					android:layout_height="189dp"
+					android:text="@string/bbbbasa_string"
+					 />
+
+
+				<RelativeLayout android:id="@+id/groupbg3437"
+					android:layout_marginTop="260dp"
+					android:layout_marginStart="24dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View   android:id="@+id/rectangleyy39"
+						android:background="@drawable/rectangleyy39_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="320dp"
+						android:layout_height="69dp" />
+
+					<TextView android:id="@+id/centro_de_ayuda"
+						android:fontFamily="Jua"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="24sp"
+						android:textColor="@color/centro_de_ayuda_color"
+						android:layout_marginLeft="21dp"
+						android:layout_marginTop="24dp"
+						android:layout_width="281dp"
+						android:layout_height="63dp"
+						android:text="@string/centro_de_ayuda_string"
+						 />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/ayuda_ek3"
+					android:fontFamily="Jua"
+					android:textSize="24sp"
+					android:textColor="@color/nombre_color"
+					android:layout_marginLeft="26dp"
+					android:layout_marginTop="63dp"
+					android:layout_width="226dp"
+					android:layout_height="73dp"
+					android:text="@string/ayuda_ek3_string"
+					 />
+
+				<TextView android:id="@+id/dictatea"
+					android:fontFamily="Jua"
+					android:textSize="24sp"
+					android:textColor="@color/centro_de_ayuda_color"
+					android:layout_marginLeft="23dp"
+					android:layout_marginTop="595dp"
+					android:layout_width="334dp"
+					android:layout_height="58dp"
+					android:text="@string/dictatea_string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
