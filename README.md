@@ -83,7 +83,8 @@ We welcome contributions to improve DictaTEA. To contribute:
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
-
+<details>
+  <summary>Leer en Español</summary>
 ## ES
 
 **DictaTEA** es una aplicación desarrollada en Android que ayuda a niños con síndrome del espectro autista (TEA) que tienen problemas para comunicarse. La aplicación digitaliza un tablero de comunicación, permitiendo a estos niños seleccionar lo que desean expresar, y la app emitirá el sonido correspondiente.
@@ -159,3 +160,4 @@ Estamos abiertos a contribuciones para mejorar DictaTEA. Para contribuir:
 ![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+</Details>
